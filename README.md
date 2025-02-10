@@ -6,4 +6,9 @@ LINK = https://testnet.gokite.ai?r=juNC3QEy
 - npm install
 - node index.js
 # INPUT AKUN 
-- wallets.txt
+- nano wallets.txt
+# INPUT PROXY 
+- nano proxies.txt
+# SUPPORT 
+- multi akun
+- proxy and no proxy
