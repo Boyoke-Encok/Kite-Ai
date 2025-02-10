@@ -254,7 +254,7 @@ async function startContinuousProcess(wallet, useProxy) {
   let cycleCount = 1;
 
   while (isRunning) {
-    console.log(chalk.magenta(`\n🔄 Cycle #${cycleCount}`));
+    console.log(chalk.magenta(`\n🔄 PROSES KE #${cycleCount}`));
     console.log(chalk.dim('----------------------------------------'));
 
     for (const [agentId, agentName] of Object.entries(agents)) {
